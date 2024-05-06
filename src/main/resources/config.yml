@@ -1,0 +1,14 @@
+GUI:
+  Size: 27
+  Title: "&fNotifications"
+
+Notifications:
+  Dungeons:
+    Slot: 0
+    Material: DIRT
+    Enabled: "&aENABLED"
+    Disabled: "&cDISABLED"
+    Title: "&a%notification% lol"
+    Lore:
+      - "%notification%"
+      - "2"

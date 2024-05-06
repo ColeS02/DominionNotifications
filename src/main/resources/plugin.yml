@@ -1,0 +1,7 @@
+name: DominionNotifications
+version: '${project.version}'
+main: com.unclecole.dominionnotifications.DominionNotifications
+prefix: DominionNotifications
+authors: [ Cole ]
+commands:
+  notifications:
